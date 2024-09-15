@@ -1,0 +1,26 @@
+disease_id,Entrez_Id,Association_Score,References
+AID00001,10,0.04,https://www.disgenet.org/browser/1/1/0/10/0/25/diseaseid__C0009324-source__ALL/_b./
+AID00001,52,0.03,https://www.disgenet.org/browser/1/1/0/52/0/25/diseaseid__C0009324-source__ALL/_b./
+AID00001,142,0.06,https://www.disgenet.org/browser/1/1/0/52/0/25/diseaseid__C0009324-source__ALL/_b./
+AID00001,213,0.1,https://www.disgenet.org/browser/1/1/0/213/0/25/diseaseid__C0009324-source__ALL/_b./
+AID00001,301,0.01,https://www.disgenet.org/browser/1/1/0/301/0/25/diseaseid__C0009324-source__ALL/_b./
+AID00002,19,0.02,https://www.disgenet.org/browser/1/1/0/19/0/25/diseaseid__C0026769-source__ALL/_b./
+AID00002,41,0.01,DisGeNET - a database of gene-disease associations
+AID00002,100,0.02,DisGeNET - a database of gene-disease associations
+AID00002,116,0.02,DisGeNET - a database of gene-disease associations
+AID00002,183,0.06,DisGeNET - a database of gene-disease associations
+AID00003,50943,0.1,DisGeNET - a database of gene-disease associations
+AID00003,6777,0.01,https://www.disgenet.org/browser/1/1/0/6777/0/25/diseaseid__C0026769-source__ALL/_b./
+AID00003,2572,0.01,https://www.disgenet.org/browser/1/1/0/2572/0/25/diseaseid__C0026769-source__ALL/_b./
+AID00003,3605,0.4,DisGeNET - a database of gene-disease associations
+AID00003,7166,0.1,https://www.disgenet.org/browser/1/1/0/50943/0/25/diseaseid__C0026769-source__ALL/_b./
+AID00004,43,0.08,DisGeNET - a database of gene-disease associations
+AID00004,142,0.1,DisGeNET - a database of gene-disease associations
+AID00004,177,0.1,DisGeNET - a database of gene-disease associations
+AID00004,720,0.01,DisGeNET - a database of gene-disease associations
+AID00004,959,0.03,https://www.disgenet.org/browser/1/1/0/959/0/25/diseaseid__C0011849-source__ALL/_b./
+AID00005,3123,0.04,DisGeNET - a database of gene-disease associations
+AID00005,940,0.1,DisGeNET - a database of gene-disease associations
+AID00005,3558,0.02,DisGeNET - a database of gene-disease associations
+AID00005,6347,0.01,DisGeNET - a database of gene-disease associations
+AID00005,26525,0.01,DisGeNET - a database of gene-disease associations
