@@ -1,0 +1,50 @@
+disease_uid	disease_name	usage	MeshTerm
+AID00001	Ulcerative colitis	2	D003093
+AID00002	Multiple sclerosis	0	D009103
+AID00003	Autoimmune polyendocrine syndrome	0	D016884
+AID00005	insulin-dependent diabetes mellitus,type 1 diabetes	8	D000305
+AID00006	Alopecia areata	0	D000506
+AID00007	Rheumatoid arthritis	46	D001172
+AID00008	Behcet's Disease	0	D001528
+AID00009	Celiac disease	0	D002446
+AID00010	Crohn's Disease	11	D003424
+AID00011	Atopic dermatitis	0	D003876
+AID00012	Dermatomyositis	2	D003882
+AID00013	IgA nephropathy	0	D005922
+AID00014	Graves' disease	0	D006111
+AID00015	Leprosy	0	D007918
+AID00016	Primary biliary cirrhosis	0	D008105
+AID00017	Systemic lupus erythematosus	1	D008180
+AID00018	Kawasaki disease	0	D009080
+AID00019	Myasthenia gravis	4	D009157
+AID00020	Narcolepsy	0	D009290
+AID00021	Psoriasis	11	D011565
+AID00022	Sarcoidosis	0	D012507
+AID00023	Systemic sclerosis	0	D012595
+AID00024	Sjögren syndrome	0	D012859
+AID00025	Ankylosing spondylitis	0	D013167
+AID00026	Takayasu arteritis	0	D013625
+AID00028	Vitiligo	0	D014820
+AID00029	Primary sclerosing cholangitis	0	D015209
+AID00030	Inflammatory bowel Disease	4	D015212
+AID00031	Bare lymphocyte syndrome	0	D016511
+AID00032	Autoimmune thrombocytopenic purpura	0	D016553
+AID00033	Antiphospholipid syndrome	0	D016736
+AID00034	Goodpasture syndrome	0	D019867
+AID00035	Nijmegen breakage syndrome	0	D049932
+AID00036	Hashimoto's thyroiditis	0	D050031
+AID00037	Hereditary angioedema	0	D054179
+AID00038	Chronic periodontitis	0	D055113
+AID00039	Eosinophilic esophagitis	0	D057765
+AID00041	Parkinson's disease	1	NULL
+AID00043	Neonatal lupus	0	NULL
+AID00044	Autoimmune thyroid disease	0	NULL
+AID00045	Autoimmune lymphoproliferative syndrome	0	NULL
+AID00046	Vitiligo-associated multiple autoimmune disease	0	NULL
+AID00047	Lymphoproliferative syndrome	0	NULL
+AID00048	Familial cold autoinflammatory syndrome	5	NULL
+AID00049	Stiff-Person syndrome	0	NULL
+AID00050	Hyperimmunoglobulin G1 (A1) syndrome	0	NULL
+AID00052	Spastic paraplegia and evans syndrome	0	NULL
+AID00053	Pernicious anemia	0	NULL
+AID00054	Hypoadrenocorticism with hypoparathyroidism and superficial moniliasis	0	NULL

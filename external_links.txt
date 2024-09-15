@@ -1,0 +1,214 @@
+disease_uid	externalDB	url
+AID00001	OMIM: 191390	http://omim.org/entry/191390
+AID00001	DiseaseDB: 13495	http://www.diseasesdatabase.com/ddb13495.htm
+AID00001	DiseaseOntology: 9016	http://disease-ontology.org/
+AID00001	MeSH: D003093	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D003093
+AID00001	WikiPedia	http://en.wikipedia.org/wiki/Ulcerative_colitis
+AID00002	OMIM: 126200	http://omim.org/entry/126200
+AID00002	DiseaseDB: 8412	http://www.diseasesdatabase.com/ddb8412.htm
+AID00002	DiseaseOntology: 2377	http://disease-ontology.org/
+AID00002	MeSH: D009103	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D009103
+AID00002	WikiPedia	http://en.wikipedia.org/wiki/Multiple_sclerosis
+AID00003	OMIM: 240300	http://omim.org/entry/240300
+AID00003	OMIM: 269200	http://omim.org/entry/269200
+AID00003	DiseaseDB: 29212	http://www.diseasesdatabase.com/ddb29212.htm
+AID00003	DiseaseDB: 29690	http://www.diseasesdatabase.com/ddb29690.htm
+AID00003	DiseaseOntology: 14040	http://disease-ontology.org/
+AID00003	MeSH: D016884	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D016884
+AID00003	WikiPedia	https://en.wikipedia.org/wiki/Autoimmune_polyendocrine_syndrome
+AID00004	OMIM: 269200	http://omim.org/entry/269200
+AID00004	DiseaseDB: 29690	http://www.diseasesdatabase.com/ddb29690.htm
+AID00004	DiseaseOntology: 0050168	http://disease-ontology.org/
+AID00004	MeSH: D016884	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D016884
+AID00004	WikiPedia	https://en.wikipedia.org/wiki/Autoimmune_polyendocrine_syndrome_type_2
+AID00005	OMIM: 222100	http://omim.org/entry/222100
+AID00005	DiseaseDB: 3649	http://www.diseasesdatabase.com/ddb3649.htm
+AID00005	DiseaseOntology: 9744	http://disease-ontology.org/
+AID00005	MeSH: D000305	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D000305
+AID00005	WikiPedia	https://en.wikipedia.org/wiki/Diabetes_mellitus_type_1
+AID00006	OMIM: 104000	http://omim.org/entry/104000
+AID00006	DiseaseDB: 430	http://www.diseasesdatabase.com/ddb430.htm
+AID00006	DiseaseOntology: 986	http://disease-ontology.org/
+AID00006	MeSH: D000506	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D000506
+AID00006	WikiPedia	https://en.wikipedia.org/wiki/Alopecia_areata
+AID00007	OMIM: 180300	http://omim.org/entry/180300
+AID00007	DiseaseDB: 11506	http://www.diseasesdatabase.com/ddb11506.htm
+AID00007	DiseaseOntology: 7148	http://disease-ontology.org/
+AID00007	MeSH: D001172	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D001172
+AID00007	WikiPedia	http://en.wikipedia.org/wiki/Rheumatoid_arthritis
+AID00008	OMIM: 109650	http://omim.org/entry/109650
+AID00008	DiseaseDB: 1285	http://www.diseasesdatabase.com/ddb1285.htm
+AID00008	DiseaseOntology: 13241	http://disease-ontology.org/
+AID00008	MeSH: D001528	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D001528
+AID00008	WikiPedia	https://en.wikipedia.org/wiki/Beh%C3%A7et%27s_disease
+AID00009	OMIM: 212750	http://omim.org/entry/212750
+AID00009	DiseaseDB: 2922	http://www.diseasesdatabase.com/ddb2922.htm
+AID00009	DiseaseOntology: 10608	http://disease-ontology.org/
+AID00009	MeSH: D002446	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D002446
+AID00009	WikiPedia	https://en.wikipedia.org/wiki/Coeliac_disease
+AID00010	OMIM: 266600	http://omim.org/entry/266600
+AID00010	DiseaseDB: 3178	http://www.diseasesdatabase.com/ddb3178.htm
+AID00010	DiseaseOntology: 8942	http://disease-ontology.org/
+AID00010	MeSH: D003424	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D003424
+AID00010	WikiPedia	https://en.wikipedia.org/wiki/Crohn%27s_disease
+AID00011	OMIM: 603165	http://omim.org/entry/603165
+AID00011	DiseaseDB: 4113	http://www.diseasesdatabase.com/ddb4113.htm
+AID00011	DiseaseOntology: 3310	http://disease-ontology.org/
+AID00011	MeSH: D003876	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D003876
+AID00011	WikiPedia	https://en.wikipedia.org/wiki/Atopic_dermatitis
+AID00012	DiseaseDB: 10343	http://www.diseasesdatabase.com/ddb10343.htm
+AID00012	DiseaseOntology: 10223	http://disease-ontology.org/
+AID00012	MeSH: D003882	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D003882
+AID00012	WikiPedia	https://en.wikipedia.org/wiki/Dermatomyositis
+AID00013	OMIM: 161950	http://omim.org/entry/161950
+AID00013	DiseaseDB: 1353	http://www.diseasesdatabase.com/ddb1353.htm
+AID00013	DiseaseOntology: 2986	http://disease-ontology.org/
+AID00013	MeSH: D005922	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D005922
+AID00013	WikiPedia	https://en.wikipedia.org/wiki/IgA_nephropathy
+AID00014	OMIM: 275000	http://omim.org/entry/275000
+AID00014	DiseaseDB: 5419	http://www.diseasesdatabase.com/ddb5419.htm
+AID00014	DiseaseOntology: 12361	http://disease-ontology.org/
+AID00014	MeSH: D006111	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D006111
+AID00015	OMIM: 246300	http://omim.org/entry/246300
+AID00015	DiseaseDB: 8478	http://www.diseasesdatabase.com/ddb8478.htm
+AID00015	DiseaseOntology: 1024	http://disease-ontology.org/
+AID00015	MeSH: D007918	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D007918
+AID00015	WikiPedia	https://en.wikipedia.org/wiki/Leprosy
+AID00016	OMIM: 109720	http://omim.org/entry/109720
+AID00016	DiseaseDB: 10615	http://www.diseasesdatabase.com/ddb10615.htm
+AID00016	DiseaseOntology: 12236	http://disease-ontology.org/
+AID00016	MeSH: D008105	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D008105
+AID00016	WikiPedia	https://en.wikipedia.org/wiki/Primary_biliary_cirrhosis
+AID00017	OMIM: 152700	http://omim.org/entry/152700
+AID00017	DiseaseDB: 12782	http://www.diseasesdatabase.com/ddb12782.htm
+AID00017	DiseaseOntology: 9074	http://disease-ontology.org/
+AID00017	MeSH: D008180	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D008180
+AID00017	WikiPedia	http://en.wikipedia.org/wiki/Systemic_lupus_erythematosus
+AID00018	OMIM: 611775	http://omim.org/entry/611775
+AID00018	DiseaseDB: 7121	http://www.diseasesdatabase.com/ddb7121.htm
+AID00018	DiseaseOntology: 13378	http://disease-ontology.org/
+AID00018	MeSH: D009080	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D009080
+AID00018	WikiPedia	http://en.wikipedia.org/wiki/Kawasaki_disease
+AID00019	OMIM: 254200	http://omim.org/entry/254200
+AID00019	DiseaseDB: 8460	http://www.diseasesdatabase.com/ddb8460.htm
+AID00019	DiseaseOntology: 444	http://disease-ontology.org/
+AID00019	MeSH: D009157	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D009157
+AID00019	WikiPedia	http://en.wikipedia.org/wiki/Myasthenia_gravis
+AID00020	OMIM: 161400	http://omim.org/entry/161400
+AID00020	DiseaseDB: 8801	http://www.diseasesdatabase.com/ddb8801.htm
+AID00020	DiseaseOntology: 8985	http://disease-ontology.org/
+AID00020	MeSH: D009290	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D009290
+AID00020	WikiPedia	http://en.wikipedia.org/wiki/Narcolepsy
+AID00021	OMIM: 177900	http://omim.org/entry/177900
+AID00021	DiseaseDB: 10895	http://www.diseasesdatabase.com/ddb10895.htm
+AID00021	DiseaseOntology: 8893	http://disease-ontology.org/
+AID00021	MeSH: D011565	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D011565
+AID00021	WikiPedia	https://en.wikipedia.org/wiki/Psoriasis
+AID00022	OMIM: 181000	http://omim.org/entry/181000
+AID00022	DiseaseDB: 11797	http://www.diseasesdatabase.com/ddb11797.htm
+AID00022	DiseaseOntology: 11335	http://disease-ontology.org/
+AID00022	MeSH: D012507	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D012507
+AID00022	WikiPedia	http://en.wikipedia.org/wiki/Sarcoidosis
+AID00023	OMIM: 181750	http://omim.org/entry/181750
+AID00023	DiseaseDB: 12845	http://www.diseasesdatabase.com/ddb12845.htm
+AID00023	DiseaseOntology: 419	http://disease-ontology.org/
+AID00023	MeSH: D012595	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D012595
+AID00023	WikiPedia	http://en.wikipedia.org/wiki/Scleroderma
+AID00024	OMIM: 270150	http://omim.org/entry/270150
+AID00024	DiseaseDB: 12155	http://www.diseasesdatabase.com/ddb12155.htm
+AID00024	DiseaseOntology: 12894	http://disease-ontology.org/
+AID00024	MeSH: D012859	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D012859
+AID00024	WikiPedia	https://en.wikipedia.org/wiki/Sj%C3%B6gren%27s_syndrome
+AID00025	OMIM: 106300	http://omim.org/entry/106300
+AID00025	DiseaseDB: 728	http://www.diseasesdatabase.com/ddb728.htm
+AID00025	DiseaseOntology: 7147	http://disease-ontology.org/
+AID00025	MeSH: D013167	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D013167
+AID00025	WikiPedia	https://en.wikipedia.org/wiki/Ankylosing_spondylitis
+AID00026	OMIM: 207600	http://omim.org/entry/207600
+AID00026	DiseaseDB: 12879	http://www.diseasesdatabase.com/ddb12879.htm
+AID00026	DiseaseOntology: 2508	http://disease-ontology.org/
+AID00026	MeSH: D013625	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D013625
+AID00026	WikiPedia	https://en.wikipedia.org/wiki/Takayasu%27s_arteritis
+AID00028	OMIM: 193200	http://omim.org/entry/193200
+AID00028	DiseaseDB: 13965	http://www.diseasesdatabase.com/ddb13965.htm
+AID00028	DiseaseOntology: 12306	http://disease-ontology.org/
+AID00028	MeSH: D014820	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D014820
+AID00028	WikiPedia	https://en.wikipedia.org/wiki/Vitiligo
+AID00029	OMIM: 613806	http://omim.org/entry/613806
+AID00029	DiseaseDB: 10643	http://www.diseasesdatabase.com/ddb10643.htm
+AID00029	MeSH: D015209	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D015209
+AID00029	WikiPedia	https://en.wikipedia.org/wiki/Primary_sclerosing_cholangitis
+AID00030	OMIM: 266600	http://omim.org/entry/266600
+AID00030	DiseaseDB: 31127	http://www.diseasesdatabase.com/ddb31127.htm
+AID00030	DiseaseOntology: 50589	http://disease-ontology.org/
+AID00030	MeSH: D015212	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D015212
+AID00030	WikiPedia	http://en.wikipedia.org/wiki/Inflammatory_bowel_disease
+AID00031	OMIM: 604571	http://omim.org/entry/604571
+AID00031	OMIM: 209920	http://omim.org/entry/209920
+AID00031	DiseaseDB: 29570	http://www.diseasesdatabase.com/ddb29570.htm
+AID00031	DiseaseDB: 31627	http://www.diseasesdatabase.com/ddb31627.htm
+AID00031	MeSH: D016511	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D016511
+AID00031	WikiPedia	https://en.wikipedia.org/wiki/Bare_lymphocyte_syndrome
+AID00032	OMIM: 188030	http://omim.org/entry/188030
+AID00032	DiseaseDB: 6673	http://www.diseasesdatabase.com/ddb6673.htm
+AID00032	DiseaseOntology: 2220	http://disease-ontology.org/
+AID00032	MeSH: D016553	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D016553
+AID00032	WikiPedia	https://en.wikipedia.org/wiki/Idiopathic_thrombocytopenic_purpura
+AID00033	OMIM: 107320	http://omim.org/entry/107320
+AID00033	DiseaseDB: 775	http://www.diseasesdatabase.com/ddb775.htm
+AID00033	DiseaseOntology: 2988	http://disease-ontology.org/
+AID00033	MeSH: D016736	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D016736
+AID00033	WikiPedia	http://en.wikipedia.org/wiki/Antiphospholipid_syndrome
+AID00034	OMIM: 233450	http://omim.org/entry/233450
+AID00034	DiseaseDB: 5363	http://www.diseasesdatabase.com/ddb5363.htm
+AID00034	DiseaseOntology: 9812	http://disease-ontology.org/
+AID00034	MeSH: D019867	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D019867
+AID00034	WikiPedia	https://en.wikipedia.org/wiki/Goodpasture_syndrome
+AID00035	OMIM: 251260	http://omim.org/entry/251260
+AID00035	DiseaseDB: 32395	http://www.diseasesdatabase.com/ddb32395.htm
+AID00035	DiseaseOntology: 7400	http://disease-ontology.org/
+AID00035	MeSH: D049932	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D049932
+AID00035	WikiPedia	https://en.wikipedia.org/wiki/Nijmegen_breakage_syndrome
+AID00036	OMIM: 140300	http://omim.org/entry/140300
+AID00036	DiseaseDB: 5649	http://www.diseasesdatabase.com/ddb5649.htm
+AID00036	MeSH: D050031	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D050031
+AID00036	WikiPedia	http://en.wikipedia.org/wiki/Hashimoto%27s_thyroiditis
+AID00037	OMIM: 106100	http://omim.org/entry/106100
+AID00037	DiseaseDB: 1821	http://www.diseasesdatabase.com/ddb1821.htm
+AID00037	DiseaseOntology: 14735	http://disease-ontology.org/
+AID00037	MeSH: D054179	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D054179
+AID00037	WikiPedia	https://en.wikipedia.org/wiki/Hereditary_angioedema
+AID00038	DiseaseDB: 29362	http://www.diseasesdatabase.com/ddb29362.htm
+AID00038	DiseaseOntology: 824	http://disease-ontology.org/
+AID00038	MeSH: D055113	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D055113
+AID00038	WikiPedia	https://en.wikipedia.org/wiki/Chronic_periodontitis
+AID00039	DiseaseOntology: 13922	http://disease-ontology.org/
+AID00039	MeSH: D057765	https://www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&term=D057765
+AID00039	WikiPedia	http://en.wikipedia.org/wiki/Eosinophilic_esophagitis
+AID00041	OMIM: 1168600	http://omim.org/entry/1168600
+AID00041	OMIM: 556500	http://omim.org/entry/556500
+AID00041	DiseaseDB: 9561	http://www.diseasesdatabase.com/ddb9561.htm
+AID00041	DiseaseOntology: 14330	http://disease-ontology.org/
+AID00041	WikiPedia	https://en.wikipedia.org/wiki/Parkinson%27s_disease
+AID00043	WikiPedia	https://en.wikipedia.org/wiki/Neonatal_lupus_erythematosus
+AID00044	OMIM: 240300	http://omim.org/entry/240300
+AID00045	OMIM: 601859	http://omim.org/entry/601859
+AID00045	OMIM: 603909	http://omim.org/entry/603909
+AID00045	DiseaseDB: 33425	http://www.diseasesdatabase.com/ddb33425.htm
+AID00045	DiseaseDB: 33424	http://www.diseasesdatabase.com/ddb33424.htm
+AID00045	DiseaseOntology: 6688	http://disease-ontology.org/
+AID00045	WikiPedia	https://en.wikipedia.org/wiki/Autoimmune_lymphoproliferative_syndrome
+AID00046	OMIM: 207600	http://omim.org/entry/207600
+AID00047	OMIM: 184850	http://omim.org/entry/184850
+AID00048	OMIM: 251260	http://omim.org/entry/251260
+AID00049	OMIM: 209920	http://omim.org/entry/209920
+AID00049	DiseaseDB: 12428	http://www.diseasesdatabase.com/ddb12428.htm
+AID00049	DiseaseOntology: 13366	http://disease-ontology.org/
+AID00049	WikiPedia	https://en.wikipedia.org/wiki/Stiff_person_syndrome
+AID00050	OMIM: 605598	http://omim.org/entry/605598
+AID00051	OMIM: 601608	http://omim.org/entry/601608
+AID00051	DiseaseOntology: 444	http://disease-ontology.org/
+AID00052	OMIM: 240300	http://omim.org/entry/240300
+AID00053	OMIM: 269200	http://omim.org/entry/269200
+AID00053	DiseaseOntology: 13381	http://disease-ontology.org/
+AID00054	OMIM: 188030	http://omim.org/entry/188030
